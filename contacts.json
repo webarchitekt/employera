@@ -1,0 +1,204 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Bibbye Gutcher",
+      "phone": "885-131-9176",
+      "email": "bgutcher0@smh.com.au",
+      "country": "Australia",
+      "city": "Sydney",
+      "zip": "2000",
+      "job_title": "Product Manager"
+    },
+    {
+      "id": "2",
+      "name": "Tomáš Hrubý",
+      "phone": "902-456-7721",
+      "email": "t.hruby@example.com",
+      "country": "Czech Republic",
+      "city": "Prague",
+      "zip": "11000",
+      "job_title": "Frontend Developer"
+    },
+    {
+      "id": "3",
+      "name": "Lucia Novotná",
+      "phone": "911-324-6655",
+      "email": "lucia.novotna@example.com",
+      "country": "Slovakia",
+      "city": "Bratislava",
+      "zip": "81101",
+      "job_title": "UX Designer"
+    },
+    {
+      "id": "4",
+      "name": "Matej Kováč",
+      "phone": "944-210-9987",
+      "email": "matej.kovac@example.com",
+      "country": "Slovakia",
+      "city": "Košice",
+      "zip": "04001",
+      "job_title": "Software Engineer"
+    },
+    {
+      "id": "5",
+      "name": "Karolína Šimková",
+      "phone": "987-654-3210",
+      "email": "karolina.simkova@example.com",
+      "country": "Czech Republic",
+      "city": "Brno",
+      "zip": "60200",
+      "job_title": "QA Engineer"
+    },
+    {
+      "id": "6",
+      "name": "Martin Bielik",
+      "phone": "950-874-2221",
+      "email": "martin.bielik@example.com",
+      "country": "Poland",
+      "city": "Kraków",
+      "zip": "31-042",
+      "job_title": "Data Analyst"
+    },
+    {
+      "id": "7",
+      "name": "Petra Hanzelová",
+      "phone": "921-110-5842",
+      "email": "petra.hanzelova@example.com",
+      "country": "Austria",
+      "city": "Vienna",
+      "zip": "1010",
+      "job_title": "Marketing Specialist"
+    },
+    {
+      "id": "8",
+      "name": "Richard Polák",
+      "phone": "931-775-6632",
+      "email": "richard.polak@example.com",
+      "country": "Germany",
+      "city": "Berlin",
+      "zip": "10115",
+      "job_title": "DevOps Engineer"
+    },
+    {
+      "id": "9",
+      "name": "Zuzana Havlíková",
+      "phone": "941-224-1875",
+      "email": "zuzana.havlikova@example.com",
+      "country": "United Kingdom",
+      "city": "London",
+      "zip": "EC1A 1BB",
+      "job_title": "Content Strategist"
+    },
+    {
+      "id": "10",
+      "name": "Patrik Ondruš",
+      "phone": "977-310-4322",
+      "email": "patrik.ondrus@example.com",
+      "country": "Ireland",
+      "city": "Dublin",
+      "zip": "D02",
+      "job_title": "Mobile Engineer"
+    },
+    {
+      "id": "11",
+      "name": "Andrea Šoltésová",
+      "phone": "965-111-7723",
+      "email": "andrea.soltesova@example.com",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "zip": "1012 AB",
+      "job_title": "Project Coordinator"
+    },
+    {
+      "id": "12",
+      "name": "Daniel Krupa",
+      "phone": "998-442-9931",
+      "email": "daniel.krupa@example.com",
+      "country": "United States",
+      "city": "New York",
+      "zip": "10001",
+      "job_title": "Full Stack Developer"
+    },
+    {
+      "id": "13",
+      "name": "Monika Gregorová",
+      "phone": "934-555-1187",
+      "email": "monika.gregorova@example.com",
+      "country": "Canada",
+      "city": "Toronto",
+      "zip": "M5H 2N2",
+      "job_title": "HR Generalist"
+    },
+    {
+      "id": "14",
+      "name": "Peter Malý",
+      "phone": "910-777-2234",
+      "email": "peter.maly@example.com",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "zip": "111 29",
+      "job_title": "Product Designer"
+    },
+    {
+      "id": "15",
+      "name": "Simona Vargová",
+      "phone": "987-112-8845",
+      "email": "simona.vargova@example.com",
+      "country": "Norway",
+      "city": "Oslo",
+      "zip": "0155",
+      "job_title": "Business Analyst"
+    },
+    {
+      "id": "16",
+      "name": "Juraj Hron",
+      "phone": "954-331-7620",
+      "email": "juraj.hron@example.com",
+      "country": "Switzerland",
+      "city": "Zurich",
+      "zip": "8001",
+      "job_title": "Cloud Architect"
+    },
+    {
+      "id": "17",
+      "name": "Barbora Klimentová",
+      "phone": "961-442-8841",
+      "email": "barbora.klimentova@example.com",
+      "country": "Spain",
+      "city": "Barcelona",
+      "zip": "08002",
+      "job_title": "Account Manager"
+    },
+    {
+      "id": "18",
+      "name": "Adrián Petrík",
+      "phone": "943-118-9910",
+      "email": "adrian.petrik@example.com",
+      "country": "Portugal",
+      "city": "Lisbon",
+      "zip": "1100-148",
+      "job_title": "Backend Developer"
+    },
+    {
+      "id": "19",
+      "name": "Lenka Holubová",
+      "phone": "977-564-3381",
+      "email": "lenka.holubova@example.com",
+      "country": "France",
+      "city": "Paris",
+      "zip": "75001",
+      "job_title": "Communications Manager"
+    },
+    {
+      "id": "20",
+      "name": "Michal Urban",
+      "phone": "922-410-8765",
+      "email": "michal.urban@example.com",
+      "country": "Hungary",
+      "city": "Budapest",
+      "zip": "1051",
+      "job_title": "Systems Administrator"
+    }
+  ]
+}
