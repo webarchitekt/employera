@@ -1,5 +1,4 @@
-{
-  "contacts": [
+"contacts": [
     {
       "id": "1",
       "name": "Bibbye Gutcher",
@@ -200,5 +199,4 @@
       "zip": "1051",
       "job_title": "Systems Administrator"
     }
-  ]
-}
+]
